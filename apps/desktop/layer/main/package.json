@@ -54,7 +54,7 @@
     "@follow/models": "workspace:*",
     "@follow/types": "workspace:*",
     "@types/node": "26.6.2",
-    "electron": "44.4.3",
+    "electron": "44.9.1",
     "electron-devtools-installer": "4.0.0",
     "typescript": "catalog:"
   }
