@@ -21,7 +21,7 @@
     "clsx": "2.1.1",
     "foxact": "0.3.12",
     "jotai": "3.0.0",
-    "katex": "0.18.8",
+    "katex": "0.18.9",
     "motion": "13.4.0",
     "react": "19.2.8",
     "react-blurhash": "0.3.0",
@@ -39,6 +39,6 @@
     "tailwindcss": "4.3.3",
     "typescript": "catalog:",
     "vite": "7.3.7",
-    "vitest": "5.0.1"
+    "vitest": "5.1.0"
   }
 }
