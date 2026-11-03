@@ -38,7 +38,7 @@
     "chardet": "2.2.0",
     "clsx": "2.1.1",
     "dayjs": "1.11.23",
-    "dompurify": "3.4.15",
+    "dompurify": "3.4.17",
     "es-toolkit": "1.52.0",
     "franc-min": "6.2.0",
     "hast-util-sanitize": "5.0.2",

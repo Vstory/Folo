@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "fzstd": "0.1.1",
-    "hono": "4.13.8",
+    "hono": "4.13.11",
     "ofetch": "1.5.1",
     "tar-stream": "3.2.1",
-    "zod": "4.6.5"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "5.20260922.1",
