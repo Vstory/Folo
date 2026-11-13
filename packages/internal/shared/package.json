@@ -37,7 +37,7 @@
     "@follow-app/client-sdk": "catalog:",
     "@folo-services/drizzle": "0.1.47",
     "@t3-oss/env-core": "0.13.11",
-    "better-auth": "1.7.8",
+    "better-auth": "1.7.9",
     "drizzle-orm": "0.45.3",
     "sonner": "2.0.8",
     "stripe": "22.6.2",

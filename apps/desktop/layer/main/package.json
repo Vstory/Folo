@@ -39,7 +39,7 @@
     "es-toolkit": "1.52.0",
     "font-list": "2.1.0",
     "i18next": "26.4.2",
-    "js-yaml": "5.4.3",
+    "js-yaml": "5.5.0",
     "ky": "2.1.0",
     "linkedom": "0.18.13",
     "lowdb": "7.0.1",
@@ -47,7 +47,7 @@
     "ofetch": "1.5.1",
     "pathe": "2.0.3",
     "semver": "7.8.5",
-    "tar": "7.5.22",
+    "tar": "7.5.23",
     "vscode-languagedetection": "npm:@vscode/vscode-languagedetection@1.0.23"
   },
   "devDependencies": {
